@@ -44,6 +44,6 @@ These instructions will guide you on how to set up the environment to run the pr
    ```bash
    python <project_name>/main.py
 ```
-##Projects
+## Projects
 
 This repository contains various computer graphics projects. Each project focuses on specific techniques or concepts in the field. Navigate to the individual project directories for more details.
