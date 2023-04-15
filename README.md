@@ -47,3 +47,5 @@ These instructions will guide you on how to set up the environment to run the pr
 ## Projects
 
 This repository contains various computer graphics projects. Each project focuses on specific techniques or concepts in the field. Navigate to the individual project directories for more details.
+
+![alt text](https://github.com/ashak-odree/CSE423-COMPUTER-GRAPHICS-/blob/main/project/project%20picture.png "Optional title")
