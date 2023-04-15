@@ -8,8 +8,7 @@ This repository contains projects and assignments related to the CSE423 Computer
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
