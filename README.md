@@ -31,17 +31,18 @@ These instructions will guide you on how to set up the environment to run the pr
 
    ```bash
    pip install PyOpenGL PyOpenGL_accelerate glfw glm Pillow
+   
 3.Clone this repository to your local machine:
-```bash
-git clone https://github.com/ashak-odree/CSE423-COMPUTER-GRAPHICS-.git
-
+   ```bash
+   git clone https://github.com/ashak-odree/CSE423-COMPUTER-GRAPHICS-.git
+```
 4.Navigate to the project directory:
-```bash
-cd CSE423-COMPUTER-GRAPHICS-
-
+   ```bash
+   cd CSE423-COMPUTER-GRAPHICS-
+```
 5.Run a project using Python:
-```bash
-python <project_name>/main.py
-
+   ```bash
+   python <project_name>/main.py
+```
 ##Projects
 This repository contains various computer graphics projects. Each project focuses on specific techniques or concepts in the field. Navigate to the individual project directories for more details.
